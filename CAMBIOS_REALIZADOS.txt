@@ -1,0 +1,9 @@
+Practica 2 Danna
+
+Proyecto basado en My task 1-Danna.
+- Se conserva exclusivamente la actividad original de registro de usuarios.
+- Registro es ahora la actividad que abre la aplicacion.
+- Se mantienen campos, textos, distribucion, estilos, listas y logica Java originales.
+- Se incluyen recursos vectoriales para iconos de usuario, identificacion, genero, calendario, telefono y guardar.
+- Nombre del proyecto y paquete cambiados a Practica 2 Danna y com.example.practica2danna.
+- No se agregaron funciones de almacenamiento ni validacion que no existian.
