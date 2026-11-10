@@ -313,11 +313,16 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="32dp"
             android:layout_marginBottom="32dp"
-            android:text="Grabar"
+            android:autoText="false"
+            android:backgroundTint="#356643"
+            android:fontFamily="serif"
+            android:text="Registrarse"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="@+id/tilTelefono"
+            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="@+id/tilTelefono"
-            app:layout_constraintTop_toBottomOf="@+id/tilTelefono" />
+            app:layout_constraintTop_toBottomOf="@+id/tilTelefono"
+            app:layout_constraintVertical_bias="0.0" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
